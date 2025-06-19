@@ -4,6 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/vee1e/vee1e/raw/refs/heads/master/assets/banner.webp" alt="Lakshit Verma Banner" width="100%" />
+  <img src="https://github.com/vee1e/vee1e/raw/refs/heads/master/assets/banner.jpg" alt="Lakshit Verma Banner" width="100%" />
 </p>
 
