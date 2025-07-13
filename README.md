@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vee1e/vee1e/raw/refs/heads/master/assets/homura.gif" alt="homura" width="70%" />
+  <img src="https://github.com/vee1e/vee1e/raw/refs/heads/master/assets/homura.webp" alt="homura" width="70%" />
 </p>
 
 <p align="center">
