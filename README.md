@@ -8,6 +8,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,angular,apple,arch,bash,bun,c,cpp,cmake,css,discord,docker,express,fastapi,flask,git,github,gmail,html,js,jest,kali,kotlin,latex,linux,md,mongodb,mysql,neovim,nextjs,nginx,nodejs,notion,npm,py,qt,react,regex,sqlite,ts,ubuntu,vercel,vim,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,kotlin,angular,express,fastapi,flask,nextjs,qt,react,vite,androidstudio,docker,git,github,nginx,vercel,vscode,neovim,vim,notion,bun,cmake,npm,mongodb,mysql,sqlite,arch,kali,linux,ubuntu,css,html,latex,md,bash,discord,gmail,regex" />
   </a>
 </p>
