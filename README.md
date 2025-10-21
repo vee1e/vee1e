@@ -7,31 +7,33 @@
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+<a href="https://skillicons.dev">
 
-    <b>Languages</b><br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,kotlin" /><br><br>
+<b>Languages</b><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,kotlin" /><br><br>
 
-    <b>Frameworks / Libraries</b><br>
-    <img src="https://skillicons.dev/icons?i=angular,express,fastapi,flask,nextjs,qt,react,vite" /><br><br>
+<b>Frameworks / Libraries</b><br>
+<img src="https://skillicons.dev/icons?i=angular,express,fastapi,flask,nextjs,qt,react,vite" /><br><br>
 
-    <b>Tools / Platforms</b><br>
-    <img src="https://skillicons.dev/icons?i=androidstudio,docker,git,github,nginx,vercel,vscode,neovim,vim,notion" /><br><br>
+<b>Tools / Platforms</b><br>
+<img src="https://skillicons.dev/icons?i=androidstudio,docker,git,github,nginx,vercel,vscode,neovim,vim,notion" /><br><br>
 
-    <b>Package Managers / Build Systems</b><br>
-    <img src="https://skillicons.dev/icons?i=bun,cmake,npm" /><br><br>
+<b>Package Managers / Build Systems</b><br>
+<img src="https://skillicons.dev/icons?i=bun,cmake,npm" /><br><br>
 
-    <b>Databases</b><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /><br><br>
+<b>Databases</b><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /><br><br>
 
-    <b>Operating Systems / Distros</b><br>
-    <img src="https://skillicons.dev/icons?i=arch,kali,linux,ubuntu" /><br><br>
+<b>Operating Systems / Distros</b><br>
+<img src="https://skillicons.dev/icons?i=arch,kali,linux,ubuntu" /><br><br>
 
-    <b>Markup / Styling / Docs</b><br>
-    <img src="https://skillicons.dev/icons?i=css,html,latex,md" /><br><br>
+<b>Markup / Styling / Docs</b><br>
+<img src="https://skillicons.dev/icons?i=css,html,latex,md" /><br><br>
 
-    <b>Other / Utilities</b><br>
-    <img src="https://skillicons.dev/icons?i=bash,discord,gmail,regex" />
+<b>Other / Utilities</b><br>
+<img src="https://skillicons.dev/icons?i=bash,discord,gmail,regex" />
 
-  </a>
+</a>
 </p>
+
+
