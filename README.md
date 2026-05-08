@@ -12,5 +12,5 @@
 
 
 <p align="center"><i>
-"This is the ultimate state of human emotion. More passionate than Hope. Far deeper than Despair. It is Love." <br>— Homura Akemi
+"This is the ultimate state of human emotion. More passionate than Hope. Far deeper than Despair. It is Love."
 </p></i>
