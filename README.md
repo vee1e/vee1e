@@ -1,5 +1,5 @@
 <p align="center">
-  secure software development • reverse engineering • digital forensics<br> <b><a href="https://summerofcode.withgoogle.com/myprojects/details/vORTUrPS">GSoC '26 @ FLARE</a></b>
+  secure software development • reverse engineering • digital forensics<br> 
 </p>
 
 <p align="center">
