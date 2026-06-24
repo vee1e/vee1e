@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/755266671270166581" target="_blank">discord</a> • <a href="https://lverma.com/resume" target="_blank">resume/cv</a>
+  <a href="https://discord.com/users/755266671270166581" target="_blank">discord</a> • <a href="https://lverma.com/resume" target="_blank">resume/cv</a>  • <a href="https://x.com/veelesec" target="_blank">twitter/x</a>
 </p>
 
 <p align="center">
