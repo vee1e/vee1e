@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/vee1e/vee1e/raw/refs/heads/master/assets/homura.webp" alt="homura" width="70%" />
+  <img width="960" height="408" alt="Untitled design_cropped" src="https://github.com/user-attachments/assets/60bbd06a-fdb0-4550-be0c-bedc4a7d42d8" />
 </p>
 <p align="center">
   <img src="https://count.getloli.com/@vee1e?name=vee1e&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
