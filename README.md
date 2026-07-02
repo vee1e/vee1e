@@ -1,6 +1,6 @@
 <samp>
 <p align="center">
-  application security :: reverse engineering :: digital forensics<br> 
+  software security :: reverse engg/dfir :: exploring cloud-native<br> 
 </p>
 
 <p align="center">
