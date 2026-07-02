@@ -1,6 +1,7 @@
 <samp>
 <p align="center">
-  software security :: reverse engg/dfir :: exploring cloud-native<br> 
+system security :: exploring cloud native and ebpf<br><br>
+  currently @ gsoc, working on malware tooling
 </p>
 
 <p align="center">
