@@ -1,7 +1,7 @@
 <samp>
 <p align="center">
 system security :: exploring cloud native and ebpf<br><br>
-  currently working with mandiant oss (gsoc) on malware tooling
+  current gsoc contributor @ mandiant
 </p>
 
 <p align="center">
