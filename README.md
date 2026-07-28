@@ -8,6 +8,8 @@ currently i'm a gsoc contributor [@mandiant](http://github.com/mandiant), workin
 
 <a href="https://discord.com/users/755266671270166581" target="_blank">discord</a> | <a href="https://lverma.com/resume" target="_blank">resume/cv</a> | <a href="https://x.com/veelesec" target="_blank">twitter</a>
 
-<img src="https://count.getloli.com/@vee1e?name=vee1e&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+<p align="right">
+  <img src="https://count.getloli.com/@vee1e?name=vee1e&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+</p>
 
 </samp>
