@@ -7,6 +7,7 @@
 \> currently i'm a gsoc contributor [@mandiant](http://github.com/mandiant), working on malware analysis tools.
 <br><br>
 \> previously i've worked on
+    <br>&emsp; - india's top 3 ctf team, [cryptonite](http://cryptonitemit.in/)
     <br>&emsp; - projects with [schneider electric](https://www.se.com/ww/en/)
     <br>&emsp; - sast triage at [nohack labs](https://www.linkedin.com/company/nohacklabs/posts/?feedView=all)
     <br>&emsp; - open source govtech with the [c4gt '25](https://codeforgoodtech.in/dmp-2025) program
