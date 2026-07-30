@@ -1,13 +1,13 @@
 <samp>
 
-### hi there! 
+### hi there!
 
 \> i'm lakshit, a security engineer, currently exploring cloud native and ebpf.
 <br><br>
 \> currently i'm a gsoc contributor [@mandiant](http://github.com/mandiant), working on malware analysis tools.
 <br><br>
 \> previously i've worked with
-    <br>&emsp; - india's top 3 ctf team, [cryptonite](http://cryptonitemit.in/)
+    <br>&emsp; - india's top 3 ctf team, [cryptonite](http://cryptonitemit.in/) 💎
     <br>&emsp; - att&ck analysis with [schneider electric](https://www.ecitis.org/)
     <br>&emsp; - sast triage at [nohack labs](https://www.linkedin.com/company/nohacklabs/posts/?feedView=all)
     <br>&emsp; - open source govtech with the [C4GT'25](https://codeforgoodtech.in/dmp-2025) program
@@ -26,3 +26,4 @@
 </p>
 
 </samp>
+
