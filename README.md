@@ -4,7 +4,7 @@
 
 \> i'm lakshit, a security engineer, currently exploring cloud native and ebpf.
 <br><br>
-\> currently i'm a gsoc contributor [@mandiant](http://github.com/mandiant), working on malware analysis tools.
+\> currently i'm a gsoc contributor @ [mandiant](http://github.com/mandiant), working on malware analysis tools.
 <br><br>
 \> previously i've worked with
     <br>&emsp; - india's top 3 ctf team, [cryptonite](http://cryptonitemit.in/) 💎
