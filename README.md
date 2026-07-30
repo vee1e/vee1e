@@ -6,14 +6,14 @@
 <br><br>
 \> currently i'm a gsoc contributor [@mandiant](http://github.com/mandiant), working on malware analysis tools.
 <br><br>
-\> previously i've worked on
+\> previously i've worked with
     <br>&emsp; - india's top 3 ctf team, [cryptonite](http://cryptonitemit.in/)
-    <br>&emsp; - projects with [schneider electric](https://www.se.com/ww/en/)
+    <br>&emsp; - att&ck analysis with [schneider electric](https://www.ecitis.org/)
     <br>&emsp; - sast triage at [nohack labs](https://www.linkedin.com/company/nohacklabs/posts/?feedView=all)
-    <br>&emsp; - open source govtech with the [c4gt '25](https://codeforgoodtech.in/dmp-2025) program
+    <br>&emsp; - open source govtech with the [C4GT'25](https://codeforgoodtech.in/dmp-2025) program
 <br><br>
 \> on the competitive side, i am
-    <br>&emsp; - an sih '24 [winner](https://www.linkedin.com/feed/update/urn:li:activity:7273599592061906944/)
+    <br>&emsp; - an SIH '24 [winner](https://www.linkedin.com/feed/update/urn:li:activity:7273599592061906944/)
     <br>&emsp; - a [6x hackathon / ctf winner](https://lverma.com/#achievements)
     <br>&emsp; - a [linux foundation scholarship (LiFT) recipient](https://www.linkedin.com/feed/update/urn:li:activity:7472515571771908096/)
 <br><br>
