@@ -13,7 +13,7 @@
     <br>&emsp; - open source govtech with the [C4GT'25](https://codeforgoodtech.in/dmp-2025) program
 <br><br>
 \> on the competitive side, i am
-    <br>&emsp; - an SIH '24 [winner](https://www.linkedin.com/feed/update/urn:li:activity:7273599592061906944/)
+    <br>&emsp; - an SIH'24 [winner](https://www.linkedin.com/feed/update/urn:li:activity:7273599592061906944/)
     <br>&emsp; - a [6x hackathon / ctf winner](https://lverma.com/#achievements)
     <br>&emsp; - a linux foundation scholarship (LiFT) [recipient](https://www.linkedin.com/feed/update/urn:li:activity:7472515571771908096/)
 <br><br>
