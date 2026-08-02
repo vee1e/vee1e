@@ -2,7 +2,7 @@
 
 ### hi there!
 
-\> i'm lakshit, a security engineer, currently exploring cloud native and ebpf.
+\> i'm lakshit, a security engineer, currently exploring the cloud.
 <br><br>
 \> currently i'm a gsoc contributor @ [mandiant](http://github.com/mandiant), working on malware analysis tools.
 <br><br>
