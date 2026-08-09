@@ -8,7 +8,7 @@
 <br><br>
 \> previously i've worked with
     <br>&emsp; - india's top 3 ctf team, [cryptonite](http://cryptonitemit.in/) 💎
-    <br>&emsp; - att&ck analysis with [schneider electric](https://www.ecitis.org/)
+    <br>&emsp; - agentic appsec funded by [schneider electric @ ecitis, mahe](https://www.ecitis.org/) 
     <br>&emsp; - sast triage at [nohack labs](https://www.linkedin.com/company/nohacklabs/posts/?feedView=all)
     <br>&emsp; - open source govtech with the [C4GT'25](https://codeforgoodtech.in/dmp-2025) program
 <br><br>
