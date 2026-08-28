@@ -2,7 +2,7 @@
 
 ### hi there!
 
-\> i'm lakshit, currently exploring appsec, red teaming, and cloud security
+\> i'm lakshit, currently exploring appsec, red teaming, and cloud security.
 <br><br>
 \> previously at:
     <br>&emsp; - google summer of code under [mandiant](http://github.com/mandiant), working on malware analysis [tools](https://github.com/mandiant/flare-floss/pulls?q=is%3Apr+author%3Avee1e).
