@@ -2,13 +2,12 @@
 
 ### hi there!
 
-\> i'm lakshit, a security engineer, currently exploring the cloud.
-<br><br>
-\> currently: a gsoc contributor @ [mandiant](http://github.com/mandiant), working on malware analysis tools.
+\> i'm lakshit, currently exploring appsec, red teaming, and cloud security
 <br><br>
 \> previously at:
+    <br>&emsp; - google summer of code under [mandiant](http://github.com/mandiant), working on malware analysis [tools](https://github.com/mandiant/flare-floss/pulls?q=is%3Apr+author%3Avee1e).
     <br>&emsp; - india's #2 ctf team, [cryptonite](http://cryptonitemit.in/) 💎
-    <br>&emsp; - agentic appsec funded by [schneider electric @ ecitis, mahe](https://www.ecitis.org/) 
+    <br>&emsp; - threat modeling for [schneider electric @ ecitis, mahe](https://www.ecitis.org/) 
     <br>&emsp; - sast triage at [nohack labs](https://www.linkedin.com/company/nohacklabs/posts/?feedView=all)
     <br>&emsp; - open source govtech with the [C4GT'25](https://codeforgoodtech.in/dmp-2025) program
 <br><br>
