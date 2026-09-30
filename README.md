@@ -7,8 +7,8 @@
 \> previously at:
     <br>&emsp; - google summer of code under [mandiant](http://github.com/mandiant), working on malware analysis [tools](https://github.com/mandiant/flare-floss/pulls?q=is%3Apr+author%3Avee1e).
     <br>&emsp; - india's #2 ctf team, [cryptonite](http://cryptonitemit.in/) 💎
-    <br>&emsp; - threat modeling for [schneider electric @ ecitis, mahe](https://www.ecitis.org/) 
-    <br>&emsp; - sast triage at [nohack labs](https://www.linkedin.com/company/nohacklabs/posts/?feedView=all)
+    <br>&emsp; - threat modeling, exploit dev for [schneider electric @ ecitis, mahe](https://www.ecitis.org/) 
+    <br>&emsp; - triage and vapt at [nohack labs](https://www.linkedin.com/company/nohacklabs/posts/?feedView=all)
     <br>&emsp; - open source govtech with the [c4gt'25](https://codeforgoodtech.in/dmp-2025) program
 <br><br>
 \> on the competitive side:
